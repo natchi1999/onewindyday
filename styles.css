@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+p {
+	font-family: 'eb-garamond';
+	font-size: 20px;
+	margin-left: 3%;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	letter-spacing: 0.1em;
+}
+
+
+.kazaguruma {
+		background-color: #E5E5E5;
+		background-size: 100%;
+		width: 100%;
+		text-align: center;
+		margin-top: 70px;
+		margin-bottom: 70px;
+	
+}
+
+.back-to-top{
+	font-family: 'eb-garamond';
+	font-size: 15px;
+	margin-top: auto;
+	margin-bottom: 100px;
+	letter-spacing: 0.3em;
+	text-align: center;
+}
+
+a {color: #000000}
