@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.title{
+	text-align: center;
+	margin-top: 50px;
+}
+
+.header{text-align: center;
+		margin-bottom: 30px;
+
+}
+
+.link_1{text-align:left}
+
+.samune{text-align: center}
+
+p{font-family: 'eb-garamond';
+	font-size: 14px;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	letter-spacing: 0.25em;}
+
